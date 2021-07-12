@@ -1,6 +1,13 @@
 # JavaScriptIntro
 
-# This Contains
+Calculator Application,
+
++,-,*,/,%,C/A all work as expected
+Decimals and +/- have not been implemented as of this time.
+Use - Enter number, enter operation, enter new number, press equals for result. Press C/A to clear everything.
+
+
+<!-- # This Contains
 
 -Debugging and Tools
 -Functions
@@ -13,4 +20,4 @@
 -Closures
 -The DOM
 -JQuery
--REST
+-REST -->
