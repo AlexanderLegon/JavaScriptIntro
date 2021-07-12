@@ -1,0 +1,37 @@
+
+.calc-container {
+    background: #0000008f;
+    width: 350px;
+    height: 610px;
+    border-radius: 15px;
+    margin: auto;
+}
+.container-row{
+  height: 90px;
+  width: 350px;
+  padding: 10px;
+  border: solid 2px #717171;
+  margin: 10px
+}
+
+.button{
+  background-color: #545252;
+  height: 100%;
+  border-radius: 15px;
+  color: white;
+  font-size: 35px;
+  border: solid 3px #717171;
+  padding-top: 5px;
+  text-align: center;
+}
+
+.screen{
+  background-color: #a09e9e;
+  height: 100%;
+  border-radius: 15px;
+  color: white;
+  font-size: 35px;
+  border: solid 3px #d4cdcd;
+  padding-top: 5px;
+  text-align: right;
+}
