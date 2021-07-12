@@ -6,7 +6,7 @@ Calculator Application,
 
 Decimals and +/- have not been implemented as of this time.
 
-Use - 
+Useage of the calculator - 
 
 Enter number, enter operation, enter new number, press equals for result. Press C/A to clear everything.
 
